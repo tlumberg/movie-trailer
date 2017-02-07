@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "styles.css",
+  "sources": [
+    "../scss/styles.scss",
+    "../scss/_global.scss",
+    "../scss/_grid.scss",
+    "../scss/_typography.scss",
+    "../scss/_video.scss"
+  ],
+  "mappings": "ACKA,AAAA,IAAI,AAAC,CACD,UAAU,CAAE,GAAI,CACnB,AAED,AAAA,EAAE,AAAC,CACC,KAAK,CAAE,KAAM,CACb,cAAc,CAAE,SAAU,CAC7B,AEXD,AAAA,CAAC,AAAC,CACE,UAAU,CAAE,MAAO,CACnB,WAAW,CAAE,KAAM,CACtB,ACHD,AAAA,KAAK,AAAC,CACJ,OAAO,CAAE,KAAM,CAChB",
+  "names": []
+}
