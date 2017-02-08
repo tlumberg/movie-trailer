@@ -1,21 +1,12 @@
-// Global Stylesheets
+// Global Stylesheet
 
+// Color Palette
 $primary-color: gold;
 $secondary-color: purple;
 
-body {
-    background: red;
-}
-
-h1 {
-    color: white;
-    text-transform: uppercase;
-}
 
 // Video Player Styling
-
 video {
-    display: block;
     max-width: 100%;
     width: 100%;
 }
