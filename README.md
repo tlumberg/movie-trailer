@@ -2,12 +2,13 @@
 
 ## Content Priority Outline
 
-1. Trailer
-2. Title
-3. Release Date(s)
-4. Buy Tickets
-5. Rating
-6. "Fine print"
+1. title
+2. purchase now
+3. IMDb
+4. Rating
+5. Trailer
+6. About
+7. Copywrite 2017
 
 
 
