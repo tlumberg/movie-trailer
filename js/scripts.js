@@ -1,5 +1,5 @@
 // Lettering
-//$('h1').lettering();
+$('article').lettering();
 
 // Video Player
 $('video').mediaelementplayer();

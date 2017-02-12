@@ -1,22 +1,32 @@
 // Typography Stylesheet
 p {
     font-family: $font-stack;
+    color: $tert-color;
+    font-size: 20px;
 }
 
+article {
+    color: $tert-color;
+}
+
+.char13, {
+    font-size: 40px;
+}
 
 ul {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
     padding-left: 0;
+    font-size: 25px;
     
     a:link {
         text-decoration: none;
-        color: #4c4c4c;
+        color: $tert-color;
     }
     a:visited {
         text-decoration: none;
-        color: #4c4c4c;
+        color: $tert-color;
     }
     a:hover {
         text-decoration: none;
