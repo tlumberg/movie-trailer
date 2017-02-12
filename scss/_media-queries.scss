@@ -5,12 +5,13 @@
        display: block;
     }
     
+    main {
+        padding: 1em;
+    }
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Mobile Size";
-  }
+    .logo {
+        margin-bottom: 100px;
+    }
     
 }
 
@@ -27,23 +28,21 @@
     main aside {
         width: 50%;
     }
-    
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Tablet Size";
-  }
-
+    .logo {
+        width: 70%;
+        height: 100%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
 }
 
 /* Desktop: 1280px = 80em */
-@media screen and (min-width: 80em) { 
-      
+@media screen and (min-width: 80em) {
+    .logo {
+        width: 60%;
+        height: 100%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
     
-  /* Diagnostic Styling. Delete When Done. */
-  body:before {
-       background: yellow;
-       content: "Desktop Size";
-  }
-
 }

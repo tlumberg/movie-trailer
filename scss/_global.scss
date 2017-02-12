@@ -1,12 +1,32 @@
 // Global Stylesheet
 
 // Color Palette
-$primary-color: gold;
-$secondary-color: purple;
-
+$primary-color: #bcdfdc;
+$secondary-color: #796f64;
+$font-stack: 'Didact Gothic', sans-serif;
 
 // Video Player Styling
 video {
     max-width: 100%;
     width: 100%;
+}
+
+//logo styling
+
+.logo {
+    width: 90%;
+    height: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 300px;
+    margin-top: 100px;
+} 
+
+//footer styling
+
+footer {
+    bottom: 0px;
+    font-size: 15px;
+    color: white;
+    
 }

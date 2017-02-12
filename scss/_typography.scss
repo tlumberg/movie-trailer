@@ -1,1 +1,26 @@
 // Typography Stylesheet
+p {
+    font-family: $font-stack;
+}
+
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0;
+    
+    a:link {
+        text-decoration: none;
+        color: #4c4c4c;
+    }
+    a:visited {
+        text-decoration: none;
+        color: #4c4c4c;
+    }
+    a:hover {
+        text-decoration: none;
+        color: $secondary-color;
+    }
+        
+}
