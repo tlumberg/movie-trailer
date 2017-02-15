@@ -10,6 +10,3 @@
 6. About
 7. Copywrite 2017
 
-
-
-font: gothem
